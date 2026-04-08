@@ -3,7 +3,6 @@
 <p align="center">
 🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🇮🇳 India
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=S-Jaswant18&color=blue)
 
 ---
 
