@@ -11,7 +11,7 @@
 - 🔭 Currently working on: MERN Stack & DSA  
 - 🌱 Learning: TypeScript, System Design  
 - 💪 Strong in: Java, Node.js, MongoDB  
-- 📫 Reach me: yourmail@gmail.com  
+- 📫 Reach me: jaswantsri838@gmail.com  
 - ⚡ Fun fact: I debug like Sherlock 🕵️‍♂️  
 
 ---
