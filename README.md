@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: MERN Stack & DSA  
-- 🌱 Learning: TypeScript, System Design  
-- 💪 Strong in: Java, Node.js, MongoDB  
+- 🔭 Currently working on: Full Stack & DSA  
+- 🌱 Learning: TypeScript, MERN  
+- 💪 Strong in: Java, Node.js, MongoDB, MySQL  
 - 📫 Reach me: jaswantsri838@gmail.com  
 - ⚡ Fun fact: I debug like Sherlock 🕵️‍♂️  
 
@@ -29,20 +29,19 @@
 
 | Category | Technologies |
 |--------|-------------|
-| 👨‍💻 Languages | Java, JavaScript, C++, TypeScript |
+| 👨‍💻 Languages | Java, JavaScript, Python, MySQL |
 | ⚙️ Frameworks | React, Node.js, Express |
 | 🗄️ Databases | MongoDB, MySQL |
 | 🌐 Web | HTML, CSS, Tailwind |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
-
-![Jaswant's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Jaswant18&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Jaswant18&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Jaswant18&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Jaswant18&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
@@ -51,7 +50,7 @@
 - TypeScript  
 - System Design  
 - JWT Authentication  
-- Cloud (Vercel, Render)
+- Cloud (Vercel)
 
 ---
 
@@ -59,9 +58,9 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| WhatsApp Bulk Messaging | Bulk messaging system using Meta API | MERN |
-| Book Store App | Online book store | React, Node |
-| Chat App | Real-time chat using WebSocket | Node.js |
+| WhatsApp Bulk Messaging | Built a scalable system using Meta WhatsApp API for automated bulk messaging | REACT |
+| Heart Disease Prediction | Developed ML model to predict heart disease based on patient health data | Python, Machine Learning |
+| MindSense AI | Designed AI-based system for smart insights and decision-making | AI, Python |
 
 ---
 
