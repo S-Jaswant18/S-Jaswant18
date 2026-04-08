@@ -18,9 +18,11 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jaswant-s-)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/S-Jaswant18)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:jaswantsri838@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/jaswant-s-"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="https://github.com/S-Jaswant18"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+<a href="mailto:jaswantsri838@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+</p>
 ---
 
 ## 💻 Tech Stack
