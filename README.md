@@ -38,11 +38,9 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Jaswant18&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Jaswant18&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=S-Jaswant18&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S-Jaswant18&layout=compact&theme=github_dark" height="170"/>
 </p>
 
 ---
