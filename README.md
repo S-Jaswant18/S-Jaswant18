@@ -1,18 +1,18 @@
-<h1 align="center">Hey there, I'm Jaswant 👋</h1>
+<h1 align="center">Hey there, I'm Jaswant</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🇮🇳 India
+Full-Stack Developer |  Tech Enthusiast | 🇮🇳 India
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: Full Stack & DSA  
-- 🌱 Learning: TypeScript, MERN  
-- 💪 Strong in: Java, Node.js, MongoDB, MySQL  
-- 📫 Reach me: jaswantsri838@gmail.com  
-- ⚡ Fun fact: I debug like Sherlock 🕵️‍♂️  
+-  Currently working on: Full Stack & DSA  
+-  Learning: TypeScript, MERN  
+-  Strong in: Java, Node.js, MongoDB, MySQL  
+-  Reach me: jaswantsri838@gmail.com  
+-  Fun fact: I debug like Sherlock 🕵️‍♂️  
 
 ---
 
